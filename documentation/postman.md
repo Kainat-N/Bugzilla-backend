@@ -27,4 +27,5 @@ USERS:
 1. GET all Users - Admin Only
 2. GET Specific User - Admin Only
 3. Create New User - Admin Only
+
 4. Get information about current user
